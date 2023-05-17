@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&family=Roboto:wght@400;500&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -8,14 +9,14 @@ body{
     
 }
 
-/* .main{
+.main{
     display: flex;
     flex-direction: column;
     align-items: center;
     height: 80vh;
     padding-top: 40px;
     background-color: gainsboro;
-} */
+}
 .container{
     background: white;
     display: flex;
@@ -23,8 +24,7 @@ body{
     width: 400px;
     height: 400px;
     align-items: center;
-    border: none 5px;
-    border-radius: 5px;
+
     box-shadow:0 0 1px rgba(0, 0,0, 0.2);
     gap: 10px ;
     margin-left: 300px;

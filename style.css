@@ -27,6 +27,8 @@ body{
     border-radius: 5px;
     box-shadow:0 0 1px rgba(0, 0,0, 0.2);
     gap: 10px ;
+    margin-left: 300px;
+    padding: 200px;
 }
 .login{
     font-size: 1.2rem;
@@ -70,11 +72,11 @@ a:hover{
     margin: 10px 0 20px 0;
 }
 .login-btn:hover{
-    background-color:purple;
+    background-color:#3b5998;
 
 }
 .new-account:hover{
-    background-color: purple;
+    background-color: #013220;
 }
 .style{
     position:relative;

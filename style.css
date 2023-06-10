@@ -21,10 +21,9 @@ body{
     background: white;
     display: flex;
     flex-direction: column;
-    width: 400px;
+    width: 350px;
     height: 400px;
     align-items: center;
-
     box-shadow:0 0 1px rgba(0, 0,0, 0.2);
     gap: 10px ;
     margin-left: 300px;
